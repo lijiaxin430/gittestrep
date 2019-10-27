@@ -30,5 +30,5 @@ sdaa
 d
 ada
 iewedada
-insert oneline
+insert one
 
